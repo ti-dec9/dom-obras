@@ -117,11 +117,6 @@
                                             <div class="featured-desc ">
                                                 We’re providing labor and services that connection with construction, re-construction, real property.
                                             </div>
-                                            <div class="ttm-details-link">
-                                                <a href="general-builder.html" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-darkgrey ttm-icon_element-size-xs">
-                                                    <i class="ti ti-arrow-right"></i>
-                                                </a>
-                                            </div>
                                         </div>
                                     </div>
                                     <!-- featured-imagebox-post end -->
@@ -145,11 +140,6 @@
                                             </div>
                                             <div class="featured-desc ">
                                                 We are providing different services for the assembly of machinery, attaching machinery to structures base
-                                            </div>
-                                            <div class="ttm-details-link">
-                                                <a href="house-extensions.html" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-darkgrey ttm-icon_element-size-xs">
-                                                    <i class="ti ti-arrow-right"></i>
-                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -176,11 +166,6 @@
                                                 We perform specialize construction work related to design, installation, & system maintenance work.
                                             </div>
                                         </div>
-                                        <div class="ttm-details-link">
-                                            <a href="electrical-services.html" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-darkgrey ttm-icon_element-size-xs">
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                        </div>
                                     </div>
                                     <!-- featured-imagebox-post end -->
                                 </div>
@@ -204,11 +189,6 @@
                                             <div class="featured-desc ">
                                                 We perform specialize construction work related to design, installation, & system maintenance work.
                                             </div>
-                                        </div>
-                                        <div class="ttm-details-link">
-                                            <a href="electrical-services.html" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-darkgrey ttm-icon_element-size-xs">
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
                                         </div>
                                     </div>
                                     <!-- featured-imagebox-post end -->
