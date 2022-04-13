@@ -11,3 +11,7 @@
 .text-comum {
     text-transform: initial;
 }
+
+.pr-100 {
+    padding-right: 100px;
+}

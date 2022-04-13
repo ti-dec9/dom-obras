@@ -19,7 +19,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 widget-area">
                     <div class="widget widget_nav_menu clearfix">
                         <h3 class="widget-title">Sobre Nós</h3>
-                        <p>A DOM Obras e Manutenção é uma empresa especializada <br> em manutenções, obras rápidas como reformas, manutenções prediais <br> e principalmente manutenções preventivas.</p>
+                        <p class="pr-100">A DOM Obras e Manutenção é uma empresa especializada em manutenções, obras rápidas como reformas, manutenções prediais e principalmente manutenções preventivas.</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 widget-area">

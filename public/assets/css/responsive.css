@@ -1099,6 +1099,9 @@
     .text-center-mobile {
         text-align: center;
     }
+    .pr-100 {
+        padding-right: initial !important;
+    }
     .ttm-team-member-content .featured-icon-box {
         position: unset;
     }

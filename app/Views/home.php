@@ -160,7 +160,7 @@
                                         <div class="ttm-fid inside style3">
                                             <div class="section-title">
                                                 <div class="ttm-fid-title">
-                                                    <h6>Anos de experiência em <br> serviços de construção!</h6>
+                                                    <h6 class="text-comum">Anos de experiência em <br> serviços de construção!</h6>
                                                     <div class="description padding_right20">
                                                         <p>Contamos com uma equipe experiente e atenciosa para melhor te atender!</p>
                                                     </div>
