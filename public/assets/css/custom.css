@@ -1,0 +1,13 @@
+/* CUSTOM */
+
+.ttm-bgcolor-darkgrey .top_bar_content {
+    color: #fff;
+}
+
+.top_bar .social-icons li a.ttm-social-instagram {
+    background-color: #914201;
+}
+
+.text-comum {
+    text-transform: initial;
+}
