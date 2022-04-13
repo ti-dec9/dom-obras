@@ -87,8 +87,7 @@
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
                                     <h3> Serviços</h3>
-                                    <h2 class="title">Nossos Principais
-                                        <strong class="ttm-textcolor-skincolor">Serviços</strong></h2>
+                                    <h2 class="title">Nossos <strong class="ttm-textcolor-skincolor">Serviços</strong></h2>
                                 </div>
                             </div>
                             <!--section-title-end -->
@@ -278,74 +277,7 @@
                     </div>
                 </div>
             </section>
-            <!-- image-section-end-->
-            <!--client-section-->
-            <section class="ttm-row valuable-section ttm-bgcolor-grey clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="padding_left15 padding_right15">
-                                <h3 class="title">Nossos <strong class="ttm-textcolor-skincolor">clientes</strong></h2>
-                                </h3>
-                            </div>
-                            <div class="row slick_slider" data-slick='{"slidesToShow": 6, "slidesToScroll": 1, "arrows":false, "autoplay":false, "infinite":true, "responsive": [{"breakpoint":1200,"settings":{"slidesToShow": 5}}, {"breakpoint":1024,"settings":{"slidesToShow": 4}}, {"breakpoint":777,"settings":{"slidesToShow": 3}},{"breakpoint":575,"settings":{"slidesToShow": 2}},{"breakpoint":400,"settings":{"slidesToShow": 1}}]}'>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-01.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-02.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-03.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-04.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-05.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-06.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="client-box">
-                                        <div class="client-thumbnail">
-                                            <img class="img-fluid auto_size" width="160" height="98" src="./assets/images/client/client-07.png" alt="image">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- row end -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!--client-section-->
+            <!-- image-section-end-->           
         </div>
         <!--site-main end-->
         <!--footer start-->
@@ -354,6 +286,9 @@
     </div><!-- page end -->
     <!-- Javascript -->
     <?php echo view('partials/scripts.php'); ?>
+    <script>
+        $('.mn-services').addClass('active');
+    </script>
     <!-- Javascript end-->
 </body>
 

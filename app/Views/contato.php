@@ -174,6 +174,9 @@
     </div><!-- page end -->
     <!-- Javascript -->
     <?php echo view('partials/scripts.php'); ?>
+    <script>
+        $('.mn-contact').addClass('active');
+    </script>
     <!-- Javascript end-->
 </body>
 

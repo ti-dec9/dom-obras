@@ -64,16 +64,16 @@
                                         <!-- menu -->
                                         <nav class="main-menu menu-mobile" id="menu">
                                             <ul class="menu">
-                                                <li class="active">
-                                                    <a href="./" class="mega-menu-link">Home</a>
+                                                <li class="mn-home">
+                                                    <a href="./">Home</a>
                                                 </li>
-                                                <li>
-                                                    <a href="./sobre-nos" class="mega-menu-link">Sobre Nós</a>
+                                                <li class="mn-about">
+                                                    <a href="./sobre-nos">Sobre Nós</a>
                                                 </li>
-                                                <li>
-                                                    <a href="./servicos" class="mega-menu-link">Serviços</a>
+                                                <li class="mn-services">
+                                                    <a href="./servicos">Serviços</a>
                                                 </li>                                                
-                                                <li>
+                                                <li class="mn-contact">
                                                     <a href="./contato">Contato</a>
                                                 </li>
                                             </ul>
